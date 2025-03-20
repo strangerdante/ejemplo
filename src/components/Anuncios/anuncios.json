@@ -1,0 +1,12 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/RzRrTRX/1.jpg",
+      "titulo": "",
+      "descripcion": "",
+      "eslogan": "",
+      "linkBoton": "#"
+    }
+  ]
+}
